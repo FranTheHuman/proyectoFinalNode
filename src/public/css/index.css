@@ -1,0 +1,48 @@
+* img{
+    height: 400px;
+    width: 470px;
+}
+nav a, a:hover{
+    color:  #000000;
+}
+nav a:hover{
+    color:  #5e2824;
+}
+nav {
+    background:  #eacda3;;   
+}
+body {
+    background: rgb(255, 224, 184);   
+}
+#SIGNUP {
+    background: #eacda3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #d6ae7b, #eacda3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #d6ae7b, #eacda3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#LOGIN {
+    background: #eacda3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #d6ae7b, #eacda3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #d6ae7b, #eacda3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+body {
+    background: rgb(255, 224, 184);   
+}
+.pagination>li>a,
+.pagination>li>span {
+  border: 1px solid rgb(255, 237, 210);
+  background: #eacda3;
+  color: #000000;
+} 
+#perfil {
+    background: rgb(238, 174, 91);  
+}  
+#perfil3 {
+    background: rgb(241, 206, 159);   
+} 
+table a{
+    color: #000000; 
+}
+table a:hover{
+    color: #ff8800;
+    text-decoration:none; 
+}
